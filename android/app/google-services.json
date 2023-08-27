@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414287157238",
+    "project_id": "sdhub-f91f2",
+    "storage_bucket": "sdhub-f91f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414287157238:android:07d9f84000da756a4619d7",
+        "android_client_info": {
+          "package_name": "com.example.sdhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414287157238-vab3irp6gse062j3udc89svsom1rfpvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3l9gBVto7A1G3YwbvoooYOKpSpSvWwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414287157238-vab3irp6gse062j3udc89svsom1rfpvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
